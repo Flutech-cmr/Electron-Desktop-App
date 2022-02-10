@@ -1,0 +1,24 @@
+{
+  "name": "flutech_cmr",
+  "version": "1.0.0",
+  "description": "CMR for Flutech Pvt Ltd",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/Flutech-cmr/Electron-Desktop-App",
+  "keywords": [
+    "Flutech",
+    "Comfytronics",
+    "CMR",
+    "Electron"
+  ],
+  "author": "Comfytronics Pvt Ltd",
+  "license": "CC0-1.0",
+  "devDependencies": {
+    "electron": "^17.0.0"
+  },
+  "dependencies": {
+    "internet-available": "^1.0.0"
+  }
+}

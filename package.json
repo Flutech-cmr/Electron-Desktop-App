@@ -16,7 +16,7 @@
   "author": "Comfytronics Pvt Ltd",
   "license": "CC0-1.0",
   "devDependencies": {
-    "electron": "^17.0.1"
+    "electron": "^20.0.2"
   },
   "dependencies": {
     "internet-available": "^1.0.0"
